@@ -153,7 +153,7 @@ class _ComplaintState extends State<Complaint> {
     final fileName = file != null ? basename(file!.path) : 'No File Selected';
     return Scaffold(
         appBar: AppBar(
-          title: const Text("Compalint Registration Page"),
+          title: const Text("Complaint Registration Page"),
         ),
         body: Container(
             padding: const EdgeInsets.symmetric(horizontal: 30.0),

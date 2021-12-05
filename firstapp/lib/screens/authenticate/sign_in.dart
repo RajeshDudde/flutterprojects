@@ -32,7 +32,7 @@ class _SignInState extends State<SignIn> {
             appBar: AppBar(
               backgroundColor: Colors.brown[400],
               elevation: 0.0,
-              title: const Text('Sign into CASY'),
+              title: const Text('BITS complaint app'),
               actions: <Widget>[
                 TextButton.icon(
                   icon: const Icon(Icons.person),
