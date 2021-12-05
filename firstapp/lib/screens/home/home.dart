@@ -60,7 +60,7 @@ class Home extends StatelessWidget {
                   ),
                 ),
                 Padding(
-                  padding: const EdgeInsets.only(top: 60.0),
+                  padding: const EdgeInsets.only(top: 10.0),
                   child: ElevatedButton(
                     //style: BoxWidthStyle.values.,
                     child: const Text('post complaint'),
